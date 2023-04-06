@@ -1,0 +1,5 @@
+pandas = "*"
+
+[packages]
+pandas = "*"
+notebook = "*"
